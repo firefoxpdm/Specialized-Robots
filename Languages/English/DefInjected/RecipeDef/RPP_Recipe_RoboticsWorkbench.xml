@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<RPP_Production_Builder_I.label>make builder bot (Tier 1)</RPP_Production_Builder_I.label>
+	<RPP_Production_Builder_I.description>Produce a unit capable of construction, deconstruction, and repairing with amateur-class ability.</RPP_Production_Builder_I.description>
+	<RPP_Production_Builder_II.label>make builder bot (Tier 2)</RPP_Production_Builder_II.label>
+	<RPP_Production_Builder_II.description>Produce a unit capable of construction, deconstruction, and repairing with professional-class ability.</RPP_Production_Builder_II.description>
+	<RPP_Production_Builder_III.label>make builder bot (Tier 3)</RPP_Production_Builder_III.label>
+	<RPP_Production_Builder_III.description>Produce a unit capable of construction, deconstruction, and repairing with master-class ability.</RPP_Production_Builder_III.description>
+	<RPP_Production_Builder_IV.label>make builder bot (Tier 4)</RPP_Production_Builder_IV.label>
+	<RPP_Production_Builder_IV.description>Produce a unit capable of construction, deconstruction, and repairing with system-master-class ability.</RPP_Production_Builder_IV.description>
+	<RPP_Production_Builder_V.label>make builder bot (Tier 5)</RPP_Production_Builder_V.label>
+	<RPP_Production_Builder_V.description>Produce a unit capable of construction, deconstruction, and repairing with system-master-class ability.</RPP_Production_Builder_V.description>
+
+	<RPP_Production_Miner_I.label>make miner bot (Tier 1)</RPP_Production_Miner_I.label>
+	<RPP_Production_Miner_I.description>Produce a unit capable of mining with amateur-class ability.</RPP_Production_Miner_I.description>
+	<RPP_Production_Miner_II.label>make miner bot (Tier 2)</RPP_Production_Miner_II.label>
+	<RPP_Production_Miner_II.description>Produce a unit capable of mining with professional-class ability.</RPP_Production_Miner_II.description>
+	<RPP_Production_Miner_III.label>make miner bot (Tier 3)</RPP_Production_Miner_III.label>
+	<RPP_Production_Miner_III.description>Produce a unit capable of mining with master-class ability.</RPP_Production_Miner_III.description>
+	<RPP_Production_Miner_IV.label>make miner bot (Tier 4)</RPP_Production_Miner_IV.label>
+	<RPP_Production_Miner_IV.description>Produce a unit capable of mining with system-master-class ability.</RPP_Production_Miner_IV.description>
+	<RPP_Production_Miner_V.label>make miner bot (Tier 5)</RPP_Production_Miner_V.label>
+	<RPP_Production_Miner_V.description>Produce a unit capable of mining with system-master-class ability.</RPP_Production_Miner_V.description>
+
+	
+	
+	
+	<RPP_Production_Crafter_I.label>make crafter bot (Tier 1)</RPP_Production_Crafter_I.label>
+	<RPP_Production_Crafter_I.description>Produce a unit capable of crafting with amateur-class ability.</RPP_Production_Crafter_I.description>
+	<RPP_Production_Crafter_II.label>make crafter bot (Tier 2)</RPP_Production_Crafter_II.label>
+	<RPP_Production_Crafter_II.description>Produce a unit capable of crafting with professional-class ability.</RPP_Production_Crafter_II.description>
+	<RPP_Production_Crafter_III.label>make crafter bot (Tier 3)</RPP_Production_Crafter_III.label>
+	<RPP_Production_Crafter_III.description>Produce a unit capable of crafting with master-class ability.</RPP_Production_Crafter_III.description>
+	<RPP_Production_Crafter_IV.label>make crafter bot (Tier 4)</RPP_Production_Crafter_IV.label>
+	<RPP_Production_Crafter_IV.description>Produce a unit capable of crafting with system-master-class ability.</RPP_Production_Crafter_IV.description>
+	<RPP_Production_Crafter_V.label>make crafter bot (Tier 5)</RPP_Production_Crafter_V.label>
+	<RPP_Production_Crafter_V.description>Produce a unit capable of crafting with system-master-class ability.</RPP_Production_Crafter_V.description>
+
+	
+	<RPP_Production_Smither_I.label>make smither bot (Tier 1)</RPP_Production_Smither_I.label>
+	<RPP_Production_Smither_I.description>Produce a unit capable of smithing with amateur-class ability.</RPP_Production_Smither_I.description>
+	<RPP_Production_Smither_II.label>make smither bot (Tier 2)</RPP_Production_Smither_II.label>
+	<RPP_Production_Smither_II.description>Produce a unit capable of smithing with professional-class ability.</RPP_Production_Smither_II.description>
+	<RPP_Production_Smither_III.label>make smither bot (Tier 3)</RPP_Production_Smither_III.label>
+	<RPP_Production_Smither_III.description>Produce a unit capable of smithing with master-class ability.</RPP_Production_Smither_III.description>
+	<RPP_Production_Smither_IV.label>make smither bot (Tier 4)</RPP_Production_Smither_IV.label>
+	<RPP_Production_Smither_IV.description>Produce a unit capable of smithing with system-master-class ability.</RPP_Production_Smither_IV.description>
+	<RPP_Production_Smither_V.label>make smither bot (Tier 5)</RPP_Production_Smither_V.label>
+	<RPP_Production_Smither_V.description>Produce a unit capable of smithing with system-master-class ability.</RPP_Production_Smither_V.description>
+
+	
+	<RPP_Production_Tailor_I.label>make tailor bot (Tier 1)</RPP_Production_Tailor_I.label>
+	<RPP_Production_Tailor_I.description>Produce a unit capable of tailoring with amateur-class ability.</RPP_Production_Tailor_I.description>
+	<RPP_Production_Tailor_II.label>make tailor bot (Tier 2)</RPP_Production_Tailor_II.label>
+	<RPP_Production_Tailor_II.description>Produce a unit capable of tailoring with professional-class ability.</RPP_Production_Tailor_II.description>
+	<RPP_Production_Tailor_III.label>make tailor bot (Tier 3)</RPP_Production_Tailor_III.label>
+	<RPP_Production_Tailor_III.description>Produce a unit capable of tailoring with master-class ability.</RPP_Production_Tailor_III.description>
+	<RPP_Production_Tailor_IV.label>make tailor bot (Tier 4)</RPP_Production_Tailor_IV.label>
+	<RPP_Production_Tailor_IV.description>Produce a unit capable of tailoring with system-master-class ability.</RPP_Production_Tailor_IV.description>
+	<RPP_Production_Tailor_V.label>make tailor bot (Tier 5)</RPP_Production_Tailor_V.label>
+	<RPP_Production_Tailor_V.description>Produce a unit capable of tailoring with system-master-class ability.</RPP_Production_Tailor_V.description>
+
+
+
+	<RPP_Production_Kitchen_I.label>make kitchen bot (Tier 1)</RPP_Production_Kitchen_I.label>
+	<RPP_Production_Kitchen_I.description>Produce a unit capable of cooking with amateur-class ability.</RPP_Production_Kitchen_I.description>
+	<RPP_Production_Kitchen_II.label>make kitchen bot (Tier 2)</RPP_Production_Kitchen_II.label>
+	<RPP_Production_Kitchen_II.description>Produce a unit capable of cooking with professional-class ability.</RPP_Production_Kitchen_II.description>
+	<RPP_Production_Kitchen_III.label>make kitchen bot (Tier 3)</RPP_Production_Kitchen_III.label>
+	<RPP_Production_Kitchen_III.description>Produce a unit capable of cooking with master-class ability.</RPP_Production_Kitchen_III.description>
+	<RPP_Production_Kitchen_IV.label>make kitchen bot (Tier 4)</RPP_Production_Kitchen_IV.label>
+	<RPP_Production_Kitchen_IV.description>Produce a unit capable of cooking with system-master-class ability.</RPP_Production_Kitchen_IV.description>
+	<RPP_Production_Kitchen_V.label>make kitchen bot (Tier 5)</RPP_Production_Kitchen_V.label>
+	<RPP_Production_Kitchen_V.description>Produce a unit capable of cooking with system-master-class ability.</RPP_Production_Kitchen_V.description>
+
+	
+	<RPP_Production_Planter_I.label>make planter bot (Tier 1)</RPP_Production_Planter_I.label>
+	<RPP_Production_Planter_I.description>Produce a unit capable of tending to plants with amateur-class ability.</RPP_Production_Planter_I.description>
+	<RPP_Production_Planter_II.label>make planter bot (Tier 2)</RPP_Production_Planter_II.label>
+	<RPP_Production_Planter_II.description>Produce a unit capable of tending to plants with professional-class ability.</RPP_Production_Planter_II.description>
+	<RPP_Production_Planter_III.label>make planter bot (Tier 3)</RPP_Production_Planter_III.label>
+	<RPP_Production_Planter_III.description>Produce a unit capable of tending to plants with master-class ability.</RPP_Production_Planter_III.description>
+	<RPP_Production_Planter_IV.label>make planter bot (Tier 4)</RPP_Production_Planter_IV.label>
+	<RPP_Production_Planter_IV.description>Produce a unit capable of tending to plants with system-master-class ability.</RPP_Production_Planter_IV.description>
+	<RPP_Production_Planter_V.label>make planter bot (Tier 5)</RPP_Production_Planter_V.label>
+	<RPP_Production_Planter_V.description>Produce a unit capable of tending to plants with system-master-class ability.</RPP_Production_Planter_V.description>
+
+</LanguageData>

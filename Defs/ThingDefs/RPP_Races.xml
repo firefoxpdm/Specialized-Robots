@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef ParentName="RPP_Bot_I" Class="AIRobot.X2_ThingDef_AIRobot">
+		<defName>RPP_Bot_Builder_I</defName>
+		<label>Builder Bot</label>
+		<description>A Tier 1 amateur-class unit capable of constructing, deconstructing, and repairing.</description>
+		<robotWorkTypes>
+			<li><workTypeDef>Construction</workTypeDef><priority>1</priority></li>
+		</robotWorkTypes>
+		<destroyedDef>RPP_Bot_Builder_I_disabled</destroyedDef>
+	</ThingDef>
+	<ThingDef ParentName="RPP_Bot_II" Class="AIRobot.X2_ThingDef_AIRobot">
+		<defName>RPP_Bot_Builder_II</defName>
+		<label>Builder Bot</label>
+		<description>A Tier 2 professional-class unit capable of constructing, deconstructing, and repairing.</description>
+		<robotWorkTypes>
+			<li><workTypeDef>Construction</workTypeDef><priority>1</priority></li>
+		</robotWorkTypes>
+		<destroyedDef>RPP_Bot_Builder_II_disabled</destroyedDef>
+	</ThingDef>
+	<ThingDef ParentName="RPP_Bot_III" Class="AIRobot.X2_ThingDef_AIRobot">
+		<defName>RPP_Bot_Builder_III</defName>
+		<label>Builder Bot</label>
+		<description>A Tier 3 Master-class unit capable of constructing, deconstructing, and repairing.</description>
+		<robotWorkTypes>
+			<li><workTypeDef>Construction</workTypeDef><priority>1</priority></li>
+		</robotWorkTypes>
+		<destroyedDef>RPP_Bot_Builder_III_disabled</destroyedDef>
+	</ThingDef>
+	<ThingDef ParentName="RPP_Bot_IV" Class="AIRobot.X2_ThingDef_AIRobot">
+		<defName>RPP_Bot_Builder_IV</defName>
+		<label>Builder Bot</label>
+		<description>A Tier 4 System-Master-class unit capable of constructing, deconstructing, and repairing.</description>
+		<robotWorkTypes>
+			<li><workTypeDef>Construction</workTypeDef><priority>1</priority></li>
+		</robotWorkTypes>
+		<destroyedDef>RPP_Bot_Builder_IV_disabled</destroyedDef>
+	</ThingDef>
+	<ThingDef ParentName="RPP_Bot_V" Class="AIRobot.X2_ThingDef_AIRobot">
+		<defName>RPP_Bot_Builder_V</defName>
+		<label>Builder Bot</label>
+		<description>A Tier 5 Godlike-class unit capable of constructing, deconstructing, and repairing.</description>
+		<robotWorkTypes>
+			<li><workTypeDef>Construction</workTypeDef><priority>1</priority></li>
+		</robotWorkTypes>
+		<destroyedDef>RPP_Bot_Builder_V_disabled</destroyedDef>
+	</ThingDef>
+
+
+	<ThingDef ParentName="RPP_Bot_I" Class="AIRobot.X2_ThingDef_AIRobot">
+		<defName>RPP_Bot_Miner_I</defName>
+		<label>Miner Bot</label>
+		<description>A Tier 1 amateur-class unit capable of mining.</description>
+		<robotWorkTypes>
+			<li><workTypeDef>Mining</workTypeDef><priority>3</priority></li>
+		</robotWorkTypes>
+		<destroyedDef>RPP_Bot_Miner_I_disabled</destroyedDef>
+	</ThingDef>
+	<ThingDef ParentName="RPP_Bot_II" Class="AIRobot.X2_ThingDef_AIRobot">
+		<defName>RPP_Bot_Miner_II</defName>
+		<label>Miner Bot</label>
+		<description>A Tier 2 professional-class unit capable of mining.</description>
+		<robotWorkTypes>
+			<li><workTypeDef>Mining</workTypeDef><priority>3</priority></li>
+		</robotWorkTypes>
+		<destroyedDef>RPP_Bot_Miner_II_disabled</destroyedDef>
+	</ThingDef>
+	<ThingDef ParentName="RPP_Bot_III" Class="AIRobot.X2_ThingDef_AIRobot">
+		<defName>RPP_Bot_Miner_III</defName>
+		<label>Miner Bot</label>
+		<description>A Tier 3 Master-class unit capable of mining.</description>
+		<robotWorkTypes>
+			<li><workTypeDef>Mining</workTypeDef><priority>3</priority></li>
+		</robotWorkTypes>
+		<destroyedDef>RPP_Bot_Miner_III_disabled</destroyedDef>
+	</ThingDef>
+	<ThingDef ParentName="RPP_Bot_IV" Class="AIRobot.X2_ThingDef_AIRobot">
+		<defName>RPP_Bot_Miner_IV</defName>
+		<label>Miner Bot</label>
+		<description>A Tier 4 System-Master-class unit capable of mining.</description>
+		<robotWorkTypes>
+			<li><workTypeDef>Mining</workTypeDef><priority>3</priority></li>
+		</robotWorkTypes>
+		<destroyedDef>RPP_Bot_Miner_IV_disabled</destroyedDef>
+	</ThingDef>
+	<ThingDef ParentName="RPP_Bot_V" Class="AIRobot.X2_ThingDef_AIRobot">
+		<defName>RPP_Bot_Miner_V</defName>
+		<label>Miner Bot</label>
+		<description>A Tier 5 Godlike-class unit capable of mining.</description>
+		<robotWorkTypes>
+			<li><workTypeDef>Mining</workTypeDef><priority>3</priority></li>
+		</robotWorkTypes>
+		<destroyedDef>RPP_Bot_Miner_V_disabled</destroyedDef>
+	</ThingDef>
+
+
+	<ThingDef ParentName="RPP_Bot_I" Class="AIRobot.X2_ThingDef_AIRobot">
+		<defName>RPP_Bot_Crafter_I</defName>
+		<label>Crafter Bot</label>
+		<description>A Tier 1 amateur-class unit capable of crafting.</description>
+		<robotWorkTypes>
+			<li><workTypeDef>Crafting</workTypeDef><priority>2</priority></li>
+		</robotWorkTypes>
+		<destroyedDef>RPP_Bot_Crafter_I_disabled</destroyedDef>
+	</ThingDef>
+	<ThingDef ParentName="RPP_Bot_II" Class="AIRobot.X2_ThingDef_AIRobot">
+		<defName>RPP_Bot_Crafter_II</defName>
+		<label>Crafter Bot</label>
+		<description>A Tier 2 professional-class unit capable of crafting.</description>
+		<robotWorkTypes>
+			<li><workTypeDef>Crafting</workTypeDef><priority>2</priority></li>
+		</robotWorkTypes>
+		<destroyedDef>RPP_Bot_Crafter_II_disabled</destroyedDef>
+	</ThingDef>
+	<ThingDef ParentName="RPP_Bot_III" Class="AIRobot.X2_ThingDef_AIRobot">
+		<defName>RPP_Bot_Crafter_III</defName>
+		<label>Crafter Bot</label>
+		<description>A Tier 3 Master-class unit capable of crafting.</description>
+		<robotWorkTypes>
+			<li><workTypeDef>Crafting</workTypeDef><priority>2</priority></li>
+		</robotWorkTypes>
+		<destroyedDef>RPP_Bot_Crafter_III_disabled</destroyedDef>
+	</ThingDef>
+	<ThingDef ParentName="RPP_Bot_IV" Class="AIRobot.X2_ThingDef_AIRobot">
+		<defName>RPP_Bot_Crafter_IV</defName>
+		<label>Crafter Bot</label>
+		<description>A Tier 4 System-Master-class unit capable of crafting.</description>
+		<robotWorkTypes>
+			<li><workTypeDef>Crafting</workTypeDef><priority>2</priority></li>
+		</robotWorkTypes>
+		<destroyedDef>RPP_Bot_Crafter_IV_disabled</destroyedDef>
+	</ThingDef>
+	<ThingDef ParentName="RPP_Bot_V" Class="AIRobot.X2_ThingDef_AIRobot">
+		<defName>RPP_Bot_Crafter_V</defName>
+		<label>Crafter Bot</label>
+		<description>A Tier 5 Godlike-class unit capable of crafting.</description>
+		<robotWorkTypes>
+			<li><workTypeDef>Crafting</workTypeDef><priority>2</priority></li>
+		</robotWorkTypes>
+		<destroyedDef>RPP_Bot_Crafter_V_disabled</destroyedDef>
+	</ThingDef>
+
+	<ThingDef ParentName="RPP_Bot_I" Class="AIRobot.X2_ThingDef_AIRobot">
+		<defName>RPP_Bot_Smither_I</defName>
+		<label>Smither Bot</label>
+		<description>A Tier 1 amateur-class unit capable of smithing.</description>
+		<robotWorkTypes>
+			<li><workTypeDef>Smithing</workTypeDef><priority>1</priority></li>
+		</robotWorkTypes>
+		<destroyedDef>RPP_Bot_Smither_I_disabled</destroyedDef>
+	</ThingDef>
+	<ThingDef ParentName="RPP_Bot_II" Class="AIRobot.X2_ThingDef_AIRobot">
+		<defName>RPP_Bot_Smither_II</defName>
+		<label>Smither Bot</label>
+		<description>A Tier 2 professional-class unit capable of smithing.</description>
+		<robotWorkTypes>
+			<li><workTypeDef>Smithing</workTypeDef><priority>1</priority></li>
+		</robotWorkTypes>
+		<destroyedDef>RPP_Bot_Smither_II_disabled</destroyedDef>
+	</ThingDef>
+	<ThingDef ParentName="RPP_Bot_III" Class="AIRobot.X2_ThingDef_AIRobot">
+		<defName>RPP_Bot_Smither_III</defName>
+		<label>Smither Bot</label>
+		<description>A Tier 3 Master-class unit capable of smithing.</description>
+		<robotWorkTypes>
+			<li><workTypeDef>Smithing</workTypeDef><priority>1</priority></li>
+		</robotWorkTypes>
+		<destroyedDef>RPP_Bot_Smither_III_disabled</destroyedDef>
+	</ThingDef>
+	<ThingDef ParentName="RPP_Bot_IV" Class="AIRobot.X2_ThingDef_AIRobot">
+		<defName>RPP_Bot_Smither_IV</defName>
+		<label>Smither Bot</label>
+		<description>A Tier 4 System-Master-class unit capable of smithing.</description>
+		<robotWorkTypes>
+			<li><workTypeDef>Smithing</workTypeDef><priority>1</priority></li>
+		</robotWorkTypes>
+		<destroyedDef>RPP_Bot_Smither_IV_disabled</destroyedDef>
+	</ThingDef>
+	<ThingDef ParentName="RPP_Bot_V" Class="AIRobot.X2_ThingDef_AIRobot">
+		<defName>RPP_Bot_Smither_V</defName>
+		<label>Smither Bot</label>
+		<description>A Tier 5 Godlike-class unit capable of smithing.</description>
+		<robotWorkTypes>
+			<li><workTypeDef>Smithing</workTypeDef><priority>1</priority></li>
+		</robotWorkTypes>
+		<destroyedDef>RPP_Bot_Smither_V_disabled</destroyedDef>
+	</ThingDef>
+
+	<ThingDef ParentName="RPP_Bot_I" Class="AIRobot.X2_ThingDef_AIRobot">
+		<defName>RPP_Bot_Tailor_I</defName>
+		<label>Tailor Bot</label>
+		<description>A Tier 1 amateur-class unit capable of tailoring.</description>
+		<robotWorkTypes>
+			<li><workTypeDef>Tailoring</workTypeDef><priority>3</priority></li>
+		</robotWorkTypes>
+		<destroyedDef>RPP_Bot_Tailor_I_disabled</destroyedDef>
+	</ThingDef>
+	<ThingDef ParentName="RPP_Bot_II" Class="AIRobot.X2_ThingDef_AIRobot">
+		<defName>RPP_Bot_Tailor_II</defName>
+		<label>Tailor Bot</label>
+		<description>A Tier 2 professional-class unit capable of tailoring.</description>
+		<robotWorkTypes>
+			<li><workTypeDef>Tailoring</workTypeDef><priority>3</priority></li>
+		</robotWorkTypes>
+		<destroyedDef>RPP_Bot_Tailor_II_disabled</destroyedDef>
+	</ThingDef>
+	<ThingDef ParentName="RPP_Bot_III" Class="AIRobot.X2_ThingDef_AIRobot">
+		<defName>RPP_Bot_Tailor_III</defName>
+		<label>Tailor Bot</label>
+		<description>A Tier 3 Master-class unit capable of tailoring.</description>
+		<robotWorkTypes>
+			<li><workTypeDef>Tailoring</workTypeDef><priority>3</priority></li>
+		</robotWorkTypes>
+		<destroyedDef>RPP_Bot_Tailor_III_disabled</destroyedDef>
+	</ThingDef>
+	<ThingDef ParentName="RPP_Bot_IV" Class="AIRobot.X2_ThingDef_AIRobot">
+		<defName>RPP_Bot_Tailor_IV</defName>
+		<label>Tailor Bot</label>
+		<description>A Tier 4 System-Master-class unit capable of tailoring.</description>
+		<robotWorkTypes>
+			<li><workTypeDef>Tailoring</workTypeDef><priority>3</priority></li>
+		</robotWorkTypes>
+		<destroyedDef>RPP_Bot_Tailor_IV_disabled</destroyedDef>
+	</ThingDef>
+	<ThingDef ParentName="RPP_Bot_V" Class="AIRobot.X2_ThingDef_AIRobot">
+		<defName>RPP_Bot_Tailor_V</defName>
+		<label>Tailor Bot</label>
+		<description>A Tier 5 Godlike-class unit capable of tailoring.</description>
+		<robotWorkTypes>
+			<li><workTypeDef>Tailoring</workTypeDef><priority>3</priority></li>
+		</robotWorkTypes>
+		<destroyedDef>RPP_Bot_Tailor_V_disabled</destroyedDef>
+	</ThingDef>
+
+	
+	
+	
+	
+	
+	
+	<ThingDef ParentName="RPP_Bot_I" Class="AIRobot.X2_ThingDef_AIRobot">
+		<defName>RPP_Bot_Kitchen_I</defName>
+		<label>Kitchen Bot</label>
+		<description>A Tier 1 amateur-class unit capable of cooking.</description>
+		<robotWorkTypes>
+			<li><workTypeDef>Cooking</workTypeDef><priority>1</priority></li>
+		</robotWorkTypes>
+		<destroyedDef>RPP_Bot_Kitchen_I_disabled</destroyedDef>
+	</ThingDef>
+	<ThingDef ParentName="RPP_Bot_II" Class="AIRobot.X2_ThingDef_AIRobot">
+		<defName>RPP_Bot_Kitchen_II</defName>
+		<label>Kitchen Bot</label>
+		<description>A Tier 2 professional-class unit capable of cooking.</description>
+		<robotWorkTypes>
+			<li><workTypeDef>Cooking</workTypeDef><priority>1</priority></li>
+		</robotWorkTypes>
+		<destroyedDef>RPP_Bot_Kitchen_II_disabled</destroyedDef>
+	</ThingDef>
+	<ThingDef ParentName="RPP_Bot_III" Class="AIRobot.X2_ThingDef_AIRobot">
+		<defName>RPP_Bot_Kitchen_III</defName>
+		<label>Kitchen Bot</label>
+		<description>A Tier 3 Master-class unit capable of cooking.</description>
+		<robotWorkTypes>
+			<li><workTypeDef>Cooking</workTypeDef><priority>1</priority></li>
+		</robotWorkTypes>
+		<destroyedDef>RPP_Bot_Kitchen_III_disabled</destroyedDef>
+	</ThingDef>
+	<ThingDef ParentName="RPP_Bot_IV" Class="AIRobot.X2_ThingDef_AIRobot">
+		<defName>RPP_Bot_Kitchen_IV</defName>
+		<label>Kitchen Bot</label>
+		<description>A Tier 4 System-Master-class unit capable of cooking.</description>
+		<robotWorkTypes>
+			<li><workTypeDef>Cooking</workTypeDef><priority>1</priority></li>
+		</robotWorkTypes>
+		<destroyedDef>RPP_Bot_Kitchen_IV_disabled</destroyedDef>
+	</ThingDef>
+	<ThingDef ParentName="RPP_Bot_V" Class="AIRobot.X2_ThingDef_AIRobot">
+		<defName>RPP_Bot_Kitchen_V</defName>
+		<label>Kitchen Bot</label>
+		<description>A Tier 5 Godlike-class unit capable of cooking.</description>
+		<robotWorkTypes>
+			<li><workTypeDef>Cooking</workTypeDef><priority>1</priority></li>
+		</robotWorkTypes>
+		<destroyedDef>RPP_Bot_Kitchen_V_disabled</destroyedDef>
+	</ThingDef>
+
+	<ThingDef ParentName="RPP_Bot_I" Class="AIRobot.X2_ThingDef_AIRobot">
+		<defName>RPP_Bot_Planter_I</defName>
+		<label>Planter Bot</label>
+		<description>A Tier 1 amateur-class unit capable of tending to plants.</description>
+		<robotWorkTypes>
+			<li><workTypeDef>PlantCutting</workTypeDef><priority>3</priority></li>
+			<li><workTypeDef>Growing</workTypeDef><priority>2</priority></li>
+		</robotWorkTypes>
+		<destroyedDef>RPP_Bot_Planter_I_disabled</destroyedDef>
+	</ThingDef>
+	<ThingDef ParentName="RPP_Bot_II" Class="AIRobot.X2_ThingDef_AIRobot">
+		<defName>RPP_Bot_Planter_II</defName>
+		<label>Planter Bot</label>
+		<description>A Tier 2 professional-class unit capable of tending to plants.</description>
+		<robotWorkTypes>
+			<li><workTypeDef>PlantCutting</workTypeDef><priority>3</priority></li>
+			<li><workTypeDef>Growing</workTypeDef><priority>2</priority></li>
+		</robotWorkTypes>
+		<destroyedDef>RPP_Bot_Planter_II_disabled</destroyedDef>
+	</ThingDef>
+	<ThingDef ParentName="RPP_Bot_III" Class="AIRobot.X2_ThingDef_AIRobot">
+		<defName>RPP_Bot_Planter_III</defName>
+		<label>Planter Bot</label>
+		<description>A Tier 3 Master-class unit capable of tending to plants.</description>
+		<robotWorkTypes>
+			<li><workTypeDef>PlantCutting</workTypeDef><priority>3</priority></li>
+			<li><workTypeDef>Growing</workTypeDef><priority>2</priority></li>
+		</robotWorkTypes>
+		<destroyedDef>RPP_Bot_Planter_III_disabled</destroyedDef>
+	</ThingDef>
+	<ThingDef ParentName="RPP_Bot_IV" Class="AIRobot.X2_ThingDef_AIRobot">
+		<defName>RPP_Bot_Planter_IV</defName>
+		<label>Planter Bot</label>
+		<description>A Tier 4 System-Master-class unit capable of tending to plants.</description>
+		<robotWorkTypes>
+			<li><workTypeDef>PlantCutting</workTypeDef><priority>3</priority></li>
+			<li><workTypeDef>Growing</workTypeDef><priority>2</priority></li>
+		</robotWorkTypes>
+		<destroyedDef>RPP_Bot_Planter_IV_disabled</destroyedDef>
+	</ThingDef>
+	<ThingDef ParentName="RPP_Bot_V" Class="AIRobot.X2_ThingDef_AIRobot">
+		<defName>RPP_Bot_Planter_V</defName>
+		<label>Planter Bot</label>
+		<description>A Tier 5 Godlike-class unit capable of tending to plants.</description>
+		<robotWorkTypes>
+			<li><workTypeDef>PlantCutting</workTypeDef><priority>3</priority></li>
+			<li><workTypeDef>Growing</workTypeDef><priority>2</priority></li>
+		</robotWorkTypes>
+		<destroyedDef>RPP_Bot_Planter_V_disabled</destroyedDef>
+	</ThingDef>
+
+</Defs>
